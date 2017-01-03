@@ -5,7 +5,7 @@ This repository contains a kinetic monte carlo code for simulating carrier trans
 For more information, see paper: "Charge Carrier Hopping Dynamics in Homogeneously Broadened PbS Quantum Dot Solids" by 
 Rachel H. Gilmore, Elizabeth M. Y. Lee, Mark C. Weidman, Adam P. Willard, and William A. Tisdale. Nano Letters, 2017, [citation to be updated] 
 
-If you have any questions about this code, please email E. Lee at emyl3196@mit.edu
+If you have any questions about this code, please email E.M. Lee at emyl3196@mit.edu
 
 ------------------------------------------------
 
