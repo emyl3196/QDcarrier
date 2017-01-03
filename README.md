@@ -9,7 +9,11 @@ If you have any questions about this code, please email E.M. Lee at emyl3196@mit
 
 ------------------------------------------------
 
-#input files: input_ma, start.inpt
+#input files: 
+
+input_ma
+
+start.inpt
 
 ------------------------------------------------
 
