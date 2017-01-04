@@ -56,7 +56,6 @@ line 8: KMC simulation end time [picoseconds]
 line 9: QD radius [nanometer]
 
 line 10: cutoff reduced radius (distance/interparticle spacing) for the KMC simulation to speed up the rate matrix calculation 
-
-*need to be greater than 1.0 in the case of non-nearest neighbor calculation or a disordered lattice
+      *need to be greater than 1.0 in the case of non-nearest neighbor calculation or a disordered lattice
       
 
