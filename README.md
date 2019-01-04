@@ -4,7 +4,7 @@ This repository contains a kinetic monte carlo (KMC) code for simulating carrier
 
 The authors request that all published work which utilizes this KMC code include the following citation:
 
-Rachel H. Gilmore, Elizabeth M. Y. Lee, Mark C. Weidman, Adam P. Willard, and William A. Tisdale. "Charge Carrier Hopping Dynamics in Homogeneously Broadened PbS Quantum Dot Solids" Nano Letters, vol. 17, pp. 893-901 (2017).
+	Rachel H. Gilmore, Elizabeth M. Y. Lee, Mark C. Weidman, Adam P. Willard, and William A. Tisdale. "Charge Carrier Hopping Dynamics in Homogeneously Broadened PbS Quantum Dot Solids" Nano Letters, vol. 17, pp. 893-901 (2017).
 
 ------------------------------------------------
 
