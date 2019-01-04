@@ -18,13 +18,13 @@ start.inpt
 
 #Run command:
 
-./ma_hop_bcc_2 < input_ma [QD index] > out_[QD index]
+	./ma_hop_bcc_2 < input_ma [QD index] > out_[QD index]
 
 where [QD index] is the initial carrier site (i.e. index of the quantum dot in which carrier is localized)
 
 e.g. to do carrier transport simulation starting from carrier initialized at QD index 10:
 
-./ma_hop_bcc_2 < input_ma 10 > out_10
+	./ma_hop_bcc_2 < input_ma 10 > out_10
 
 ------------------------------------------------
 
