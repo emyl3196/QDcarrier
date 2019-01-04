@@ -1,11 +1,10 @@
 # QDcarrier
 
-This repository contains a kinetic monte carlo code for simulating carrier transport in a 3-D quantum dot (QD) assembly in the case of QDs with symmetric valence and conduction band alignment
+This repository contains a kinetic monte carlo (KMC) code for simulating carrier transport in a 3-D quantum dot (QD) assembly in the case of QDs with symmetric valence and conduction band alignment.
 
-For more information, see paper: "Charge Carrier Hopping Dynamics in Homogeneously Broadened PbS Quantum Dot Solids" by 
-Rachel H. Gilmore, Elizabeth M. Y. Lee, Mark C. Weidman, Adam P. Willard, and William A. Tisdale. 2017, Submitted. 
+The authors request that all published work which utilizes this KMC code include the following citation:
 
-If you have any questions about this code, please email E.M. Lee at emyl3196@mit.edu
+Rachel H. Gilmore, Elizabeth M. Y. Lee, Mark C. Weidman, Adam P. Willard, and William A. Tisdale. "Charge Carrier Hopping Dynamics in Homogeneously Broadened PbS Quantum Dot Solids" Nano Letters, vol. 17, pp. 893-901 (2017).
 
 ------------------------------------------------
 
